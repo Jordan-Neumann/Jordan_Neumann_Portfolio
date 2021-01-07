@@ -5,7 +5,7 @@
 * For the first half of the band's career, he used two bass drums. For the latter half, he only used one bass drum.
 * I used Spotify's API to extract data about each track that he played on.
 * I developed a variety of random forest models to classify whether or not Neil Peart was playing one or two bass drums for each song.
-* View the Kaggle notebook [here]
+* View the Kaggle notebook [here](https://www.kaggle.com/jordankeith/neil-peart-s-bass-drum-s).
 
 
 ## Visualization 
