@@ -6,4 +6,4 @@
 ## Project 2: Baby Names Visualization
 * Built an interactive application with RShiny to explore the popularity of baby names in New Zealand from 1954 though 2018.
 * View the live application [here](https://jordan-neumann-1.shinyapps.io/rshiny/?_ga=2.223995675.1463876037.1609631665-1561344089.1609631665).
-* View the GitHub repository [here](https://jordan-neumann-1.shinyapps.io/rshiny/?_ga=2.223995675.1463876037.1609631665-1561344089.1609631665).
+* View the GitHub repository [here](https://github.com/Jordan-Neumann/RShiny-Baby-Names).
