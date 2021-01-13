@@ -1,11 +1,11 @@
 ## Classification 
 
 ### Neil Peart's Drum Setup 
-* Neil Peart is the drummer for the classic rock band Rush.  The band has 165 songs and 19 studio albums, 18 of which he played on.
-* For the first half of the band's career, he used two bass drums. For the latter half, he only used one bass drum.
-* I used Spotify's API to extract data about each track that he played on.
-* I developed a variety of random forest models to classify whether or not Neil Peart was playing one or two bass drums for each song.
-* View the Kaggle notebook [here](https://www.kaggle.com/jordankeith/neil-peart-s-bass-drum-s).
+* Rush is a classic rock band that has recorded 165 original songs on 19 studio albums.
+* The bands progressive rock era spanned from 1974 to 1981.
+* I used Spotify's API to extract data about all of the band's music.
+* I developed a variety of random forest models to classify wether individual tracks were from the band's progressive rock era.
+* View the Kaggle notebook [here](https://www.kaggle.com/jordankeith/rush-progressive-rock-era).
 
 
 ## Visualization 
