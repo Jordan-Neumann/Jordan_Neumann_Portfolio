@@ -19,3 +19,12 @@
 * Built an interactive application with RShiny to explore the popularity of baby names in New Zealand from 1954 though 2018.
 * View the live application [here](https://jordan-neumann-1.shinyapps.io/rshiny/?_ga=2.223995675.1463876037.1609631665-1561344089.1609631665).
 * View the data and code [here](https://github.com/Jordan-Neumann/RShiny-Baby-Names).
+
+## Miscellaneous
+
+### PDF Splitter
+* There are a wide variety of online PDF splitters.  Unfortunately, after a few uses you have to start paying for the service.
+* I built this splitter to assist with a current project.  The project requires extracting table data from specific page ranges of a large PDF.
+* I will add to this project by connecting it to Amazon Textract, an AWS service.
+* View a demonstation of the project [here](https://www.youtube.com/watch?v=_C38ecJLSb8).
+* View the Github repository [here](https://github.com/Jordan-Neumann/PDF-Splitter).
