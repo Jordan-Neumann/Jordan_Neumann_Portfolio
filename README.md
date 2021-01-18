@@ -21,7 +21,7 @@
 
 
 ### Baby Name Popularity
-* “What's in a name?  I'm not sure, but it is rumored that Shakespeare almost used Jordan instead Romeo.
+* “What's in a name?  I'm not sure, but it is rumored that Shakespeare almost used Jordan instead of Romeo.
 * This interactive application was built with RShiny to explore the popularity of baby names in New Zealand from 1954 though 2018.
 * View the live application [here](https://jordan-neumann-1.shinyapps.io/rshiny/?_ga=2.223995675.1463876037.1609631665-1561344089.1609631665).
 * View the data and code [here](https://github.com/Jordan-Neumann/RShiny-Baby-Names).
