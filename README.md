@@ -1,4 +1,6 @@
-## Classification 
+# Jordan Neumann Project Porfolio 
+
+## Classification
 
 ### Rush - Progressive Rock Music 
 * Rush is a classic rock band that has recorded 165 original songs on 19 studio albums.
@@ -24,7 +26,7 @@
 ## Miscellaneous
 
 ### PDF Splitter
-* I built this splitter to assist with a current project that requires me to extracting table data from specific page ranges of a large PDF document.
+* I built this splitter to assist with a current project that requires me to extract table data from certain pages of a large PDF document.
 * I will add to this project by connecting it to Amazon Textract, an AWS service, to extract the table data.
 * View a demonstation of the project [here](https://www.youtube.com/watch?v=_C38ecJLSb8).
 * View the Github repository [here](https://github.com/Jordan-Neumann/PDF-Splitter).
