@@ -14,6 +14,7 @@
 * Built an interactive dashboard in Tableau to explore police shooting data from 2015 through 2020.
 * View the visualization [here](https://public.tableau.com/profile/jordan3434#!/vizhome/FatalPoliceShootings2015-2020_16098865748980/Dashboard).  
 * View the data [here](https://github.com/washingtonpost/data-police-shootings).
+* I plan to add additional graphics that analyse shootings as a percent of population, police encounters, and contributions to violent crime. 
 
 ### Baby Name Popularity
 * Built an interactive application with RShiny to explore the popularity of baby names in New Zealand from 1954 though 2018.
@@ -23,8 +24,7 @@
 ## Miscellaneous
 
 ### PDF Splitter
-* There are a wide variety of online PDF splitters.  Unfortunately, after a few uses you have to start paying for the service.
-* I built this splitter to assist with a current project.  The project requires extracting table data from specific page ranges of a large PDF.
-* I will add to this project by connecting it to Amazon Textract, an AWS service.
+* I built this splitter to assist with a current project that requires me to extracting table data from specific page ranges of a large PDF document.
+* I will add to this project by connecting it to Amazon Textract, an AWS service, to extract the table data.
 * View a demonstation of the project [here](https://www.youtube.com/watch?v=_C38ecJLSb8).
 * View the Github repository [here](https://github.com/Jordan-Neumann/PDF-Splitter).
