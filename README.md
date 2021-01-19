@@ -14,15 +14,15 @@
 
 ### Police Shootings
 * The phenomenon of police violence has been at or near the forefront of our public conversation for several years.
-* This interactive dashboard was built in Tableau to explore fatal police shooting data from 2015 through 2020.
-* I plan to add additional graphics that analyze shootings as a percent of population, police encounters, and contributions to violent crime. 
+* This interactive dashboard was built in Tableau to explore data on fatal police shootings in the United States from 2015 through 2020.
+* I plan to add additional graphics that demonstrate shootings relative to each race's population, number of police encounters, and contributions to violent crime. 
 * View the visualization [here](https://public.tableau.com/profile/jordan3434#!/vizhome/FatalPoliceShootings2015-2020_16098865748980/Dashboard). 
 * View the data [here](https://github.com/washingtonpost/data-police-shootings).
 
 
 ### Baby Name Popularity
-* “What's in a name?  I'm not sure, but it is rumored that Shakespeare almost used Jordan instead of Romeo.
-* This interactive application was built with RShiny to explore the popularity of baby names in New Zealand from 1954 though 2018.
+* “What's in a name?"  I'm not sure, but it is rumored that Shakespeare almost used Jordan instead of Romeo.
+* This interactive application was built with RShiny to explore the popularity of baby names in New Zealand from 1954 through 2018.
 * View the live application [here](https://jordan-neumann-1.shinyapps.io/rshiny/?_ga=2.223995675.1463876037.1609631665-1561344089.1609631665).
 * View the data and code [here](https://github.com/Jordan-Neumann/RShiny-Baby-Names).
 
