@@ -9,6 +9,14 @@
 * I developed a variety of random forest models to classify whether individual tracks were from the band's progressive rock era (1974 - 1981).
 * View the Kaggle notebook [here](https://www.kaggle.com/jordankeith/rush-progressive-rock-era).
 
+## Regression
+
+### Kaggle Competition - Tabular Playground Series - January
+* In this competition, we are given 14 independent continuous variables to predict 1 continuous target variable.
+* I utilized a voting regressor that is comprised of XGBoost and Light XGBoost regressors to minimize RMSE.
+* I plan to create an AWS EC2 instance (providing me with more computing power) to further tune the models' hyperparameters.
+* I am currently in the top 50% of all submissions.
+* View the Kaggle notebook [here](https://www.kaggle.com/jordankeith/tabular-playground-series-january).
 
 ## Visualization 
 
