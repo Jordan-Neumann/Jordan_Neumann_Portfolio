@@ -12,9 +12,9 @@
 ## Regression
 
 ### Kaggle Competition - Tabular Playground Series - January
-* In this competition, we are given 14 independent continuous variables to predict 1 continuous target variable.
-* I utilized a voting regressor that is comprised of XGBoost and Light XGBoost regressors to minimize RMSE.
-* I plan to create an AWS EC2 instance (providing me with more computing power) to further tune the models' hyperparameters.
+* The task is to predict a bimodal continuous target variable with 14 bimodal or multimodal continuous independent variables.
+* Submissions are evaluated on the Root-Mean-Squared-Error (RMSE). 
+* I utilized a voting regressor that is comprised of XGBoost and Light XGBoost regressors to minimize the RMSE.
 * I am currently in the top 50% of all submissions.
 * View the Kaggle notebook [here](https://www.kaggle.com/jordankeith/tabular-playground-series-january).
 
