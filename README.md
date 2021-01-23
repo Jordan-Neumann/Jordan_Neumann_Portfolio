@@ -22,7 +22,7 @@
 ### Police Shootings
 * The phenomenon of police violence has been at or near the forefront of our public conversation for several years.
 * Built an interactive dashboard in Tableau to explore data on fatal police shootings in the United States from 2015 through 2020.
-* I plan to add additional graphics that demonstrate shootings relative to each race's population, number of police encounters, and contributions to violent crime. 
+* Next Steps - Add additional graphics to demonstrate shootings relative to each race's population, number of police encounters, and contributions to violent crime. 
 * View the visualization [here](https://public.tableau.com/profile/jordan3434#!/vizhome/FatalPoliceShootings2015-2020_16098865748980/Dashboard). 
 * View the data [here](https://github.com/washingtonpost/data-police-shootings).
 
@@ -36,6 +36,6 @@
 
 ### PDF Splitter
 * Created a pdf splitter to assist with a current project that requires me to extract table data from specific pages of a large PDF document.
-* I will add to this project by connecting it to Amazon Textract, an AWS service, to extract the table data.
+* Next steps - Connect to Amazon Textract, an AWS service, to extract the table data.
 * View a demonstation of the project [here](https://www.youtube.com/watch?v=_C38ecJLSb8).
 * View the Github repository [here](https://github.com/Jordan-Neumann/PDF-Splitter).
