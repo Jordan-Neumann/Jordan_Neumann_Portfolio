@@ -27,6 +27,7 @@
 * Next Steps - Exlore decomposition, stationarity
 * Next Next Steps - Forecast using exponential smoothing (ETS), ARIMA, and Seasonal ARIMA models
 * View the Github repository [here](https://github.com/Jordan-Neumann/Medical-Marijuana-Sales-Forecasting).
+
 ## Visualization 
 
 ### Police Shootings
