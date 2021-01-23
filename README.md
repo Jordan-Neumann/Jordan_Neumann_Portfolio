@@ -17,7 +17,7 @@
 * Trained the models in the cloud by creating an Amazon Sagemaker notebook instance.
 * View the Kaggle notebook [here](https://www.kaggle.com/jordankeith/tabular-playground-series-january).
 
-### Time Series
+## Time Series
 
 ### Medical Marijuana Sales Forecasting
 * The goal of this project is to forecast California's medical marijuana sales for the next 12 months.
