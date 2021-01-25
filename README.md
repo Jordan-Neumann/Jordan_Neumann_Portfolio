@@ -22,7 +22,8 @@
 * The goal of this project is to forecast California's medical marijuana sales for the next 12 months.
 * Adjusted sales for inflation using Consumer Price Index for all urban consumers.
 * Created four preliminary models - mean, naive (random walk), random walk with drift, and seasonal naive
-* Next Steps - Exlore decomposition and stationarity; Forecast using exponential smoothing (ETS), ARIMA, and Seasonal ARIMA models
+* Explored decomposition and differencing of the data
+* Next steps - Forecast using exponential smoothing (ETS), ARIMA, and Seasonal ARIMA models
 * View the Github repository [here](https://github.com/Jordan-Neumann/Medical-Marijuana-Sales-Forecasting).
 
 ## Visualization 
