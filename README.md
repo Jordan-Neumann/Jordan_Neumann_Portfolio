@@ -14,7 +14,6 @@
 * The task is to predict a bimodal continuous target variable with 14 bimodal or multimodal continuous independent variables.
 * Submissions are evaluated on the Root-Mean-Squared-Error (RMSE). 
 * Developed a voting regressor that is comprised of XGBoost and Light XGBoost regressors to minimize the RMSE.
-* Trained the models in the cloud by creating an Amazon Sagemaker notebook instance.
 * View the Kaggle notebook [here](https://www.kaggle.com/jordankeith/tabular-playground-series-january).
 
 ## Time Series
@@ -39,7 +38,7 @@
 ### Baby Name Popularity
 * Built an interactive application with RShiny to explore the popularity of baby names in New Zealand from 1954 through 2018.
 * View the live application [here](https://jordan-neumann-1.shinyapps.io/rshiny/?_ga=2.223995675.1463876037.1609631665-1561344089.1609631665).
-* View the data and code [here](https://github.com/Jordan-Neumann/RShiny-Baby-Names).
+* View the Github repository [here](https://github.com/Jordan-Neumann/RShiny-Baby-Names).
 
 ## Miscellaneous
 
