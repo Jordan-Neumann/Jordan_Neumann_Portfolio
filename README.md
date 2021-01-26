@@ -6,7 +6,9 @@
 * Rush is a classic rock band that has recorded 165 original songs on 19 studio albums. 
 * Utilized Spotify's API to extract data about all of the band's music.
 * Developed a variety of random forest models to classify whether individual tracks were from the band's progressive rock era (1974 - 1981).
+* View the Github repository [here](https://github.com/Jordan-Neumann/Rush-Progressive-Rock-Music).
 * View the Kaggle notebook [here](https://www.kaggle.com/jordankeith/rush-progressive-rock-era).
+
 
 ## Regression
 
@@ -25,7 +27,7 @@
 * Explored decomposition and differencing of the data
 * Next steps - Forecast using exponential smoothing (ETS), ARIMA, and Seasonal ARIMA models
 * View the Github repository [here](https://github.com/Jordan-Neumann/Medical-Marijuana-Sales-Forecasting).
-* View the kaggle notebook [here](https://www.kaggle.com/jordankeith/marijuana-time-series-prediction/edit/run/52727895).
+* View the Kaggle notebook [here](https://www.kaggle.com/jordankeith/marijuana-time-series-prediction).
 
 ## Visualization 
 
