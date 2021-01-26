@@ -25,6 +25,7 @@
 * Explored decomposition and differencing of the data
 * Next steps - Forecast using exponential smoothing (ETS), ARIMA, and Seasonal ARIMA models
 * View the Github repository [here](https://github.com/Jordan-Neumann/Medical-Marijuana-Sales-Forecasting).
+* View the kaggle notebook [here](https://www.kaggle.com/jordankeith/marijuana-time-series-prediction/edit/run/52727895).
 
 ## Visualization 
 
