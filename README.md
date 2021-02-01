@@ -5,7 +5,7 @@
 ### Rush - Progressive Rock Music 
 * Rush is a classic rock band that has recorded 165 original songs on 19 studio albums. 
 * Utilized Spotify's API to extract data about all of the band's music.
-* Developed a variety of random forest models to classify whether individual tracks were from the band's progressive rock era (1974 - 1981).
+* Developed a variety of random forest models to classify whether individual tracks were recorded during the band's progressive rock era (1974 - 1981).
 * View the Github repository [here](https://github.com/Jordan-Neumann/Rush-Progressive-Rock-Music).
 * View the Kaggle notebook [here](https://www.kaggle.com/jordankeith/rush-progressive-rock-era).
 
@@ -23,9 +23,8 @@
 ### Medical Marijuana Sales Forecasting
 * The goal of this project is to forecast California's medical marijuana sales for the next 12 months.
 * Adjusted sales for inflation using Consumer Price Index for all urban consumers.
-* Created four preliminary models - mean, naive (random walk), random walk with drift, and seasonal naive
-* Explored decomposition and differencing of the data
-* Next steps - Forecast using exponential smoothing (ETS), ARIMA, and Seasonal ARIMA models
+* Explored decomposition, and created benchmark and exponential smoothing (ETS) models. 
+* Next steps - Create Seasonal ARIMA model
 * View the Github repository [here](https://github.com/Jordan-Neumann/Medical-Marijuana-Sales-Forecasting).
 * View the Kaggle notebook [here](https://www.kaggle.com/jordankeith/marijuana-time-series-prediction).
 
@@ -38,7 +37,6 @@
 * View the visualization [here](https://public.tableau.com/profile/jordan3434#!/vizhome/FatalPoliceShootings2015-2020_16098865748980/Dashboard). 
 * View the data [here](https://github.com/washingtonpost/data-police-shootings).
 
-
 ### Baby Name Popularity
 * Built an interactive application with RShiny to explore the popularity of baby names in New Zealand from 1954 through 2018.
 * View the live application [here](https://jordan-neumann-1.shinyapps.io/rshiny/?_ga=2.223995675.1463876037.1609631665-1561344089.1609631665).
@@ -46,8 +44,6 @@
 
 ## Miscellaneous
 
-### PDF Splitter
-* Created a pdf splitter to assist with a current project that requires me to extract table data from specific pages of a large PDF document.
-* Next steps - Connect to Amazon Textract, an AWS service, to extract the table data.
-* View a demonstation of the project [here](https://www.youtube.com/watch?v=_C38ecJLSb8).
+### PDF-Splitter-GUI
+* Created a PDF splitter with a GUI that allows the user to create a new PDF based on a specified page range.
 * View the Github repository [here](https://github.com/Jordan-Neumann/PDF-Splitter).
