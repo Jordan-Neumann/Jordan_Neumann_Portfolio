@@ -46,4 +46,5 @@
 
 ### PDF-Splitter-GUI
 * Created a PDF splitter with a GUI that allows the user to create a new PDF based on a specified page range.
+* View a demonstration of the splitter [here](https://www.youtube.com/watch?v=ZMBjYjOK1lM).
 * View the Github repository [here](https://github.com/Jordan-Neumann/PDF-Splitter).
