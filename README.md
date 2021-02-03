@@ -21,10 +21,10 @@
 ## Time Series
 
 ### Medical Marijuana Sales Forecasting
-* The goal of this project is to forecast California's medical marijuana sales for the next 12 months.
-* Adjusted sales for inflation using Consumer Price Index for all urban consumers.
-* Explored decomposition, and created benchmark and exponential smoothing (ETS) models. 
-* Next steps - Create Seasonal ARIMA model
+* The goal of this project is to forecast Colorado's medical marijuana sales through November 2021
+* Adjusted sales for inflation using Consumer Price Index for all urban consumers
+* Visualized the data by creating time, seasonal, and autocorrelation plots
+* Forecasted data using average, naive, drift, seasonal naive, ETS, and Seasonal ARIMA models. 
 * View the Github repository [here](https://github.com/Jordan-Neumann/Medical-Marijuana-Sales-Forecasting).
 * View the Kaggle notebook [here](https://www.kaggle.com/jordankeith/marijuana-time-series-prediction).
 
