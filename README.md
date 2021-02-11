@@ -33,7 +33,6 @@
 ### Police Shootings
 * The phenomenon of police violence has been at or near the forefront of our public conversation for several years
 * Built an interactive dashboard in Tableau to explore data on fatal police shootings in the United States from 2015 through 2020
-* Next Steps - Add additional graphics to demonstrate shootings relative to each race's population, number of police encounters, and contributions to violent crime 
 * View the visualization [here](https://public.tableau.com/profile/jordan3434#!/vizhome/FatalPoliceShootings2015-2020_16098865748980/Dashboard)
 * View the data [here](https://github.com/washingtonpost/data-police-shootings)
 
